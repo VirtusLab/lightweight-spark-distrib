@@ -17,7 +17,7 @@ jobs:
     # - uses: coursier/cache-action@v6.3
     - uses: VirtusLab/scala-cli-setup@v1.0
     - name: Test
-      run: scala-cli test src --cross
+      run: scala-cli --power test src --cross
 
   # publish:
   #   needs: test
@@ -30,7 +30,7 @@ jobs:
   #   - uses: coursier/cache-action@v6.3
   #   - uses: VirtusLab/scala-cli-setup@v1.0
   #   - name: Publish
-  #     run: scala-cli publish src --cross
+  #     run: scala-cli --power publish src --cross
   #     env:
   #       PUBLISH_USER: ${{ secrets.PUBLISH_USER }}
   #       PUBLISH_PASSWORD: ${{ secrets.PUBLISH_PASSWORD }}
