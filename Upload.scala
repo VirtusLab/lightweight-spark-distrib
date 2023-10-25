@@ -30,7 +30,7 @@ object Upload {
     }
     if (!dummy)
       io.github.alexarchambault.millnativeimage.upload.Upload.upload(
-        ghOrg = "scala-cli",
+        ghOrg = "VirtusLab",
         ghProj = "lightweight-spark-distrib",
         ghToken = token,
         tag = tag,
