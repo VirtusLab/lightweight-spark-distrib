@@ -1,4 +1,4 @@
-//> using lib "com.lihaoyi::utest::0.7.11"
+//> using lib "com.lihaoyi::utest::0.8.1"
 
 import utest._
 
