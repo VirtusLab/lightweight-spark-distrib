@@ -1,6 +1,6 @@
 //> using lib "com.github.alexarchambault::case-app:2.1.0-M14"
 //> using lib "com.lihaoyi::os-lib:0.9.1"
-//> using lib "com.lihaoyi::pprint:0.7.3"
+//> using lib "com.lihaoyi::pprint:0.8.1"
 //> using lib "io.get-coursier::coursier:2.1.0-M5-24-g678b31710"
 //> using lib "io.get-coursier::dependency:0.2.3"
 //> using lib "org.apache.commons:commons-compress:1.21"
