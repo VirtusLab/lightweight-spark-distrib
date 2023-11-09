@@ -1,5 +1,5 @@
 //> using scala "2.13.12"
-//> using lib "io.github.alexarchambault.mill::mill-native-image-upload:0.1.21"
+//> using lib "io.github.alexarchambault.mill::mill-native-image-upload:0.1.26"v
 //> using lib "com.lihaoyi::os-lib:0.9.2"
 
 object Upload {
