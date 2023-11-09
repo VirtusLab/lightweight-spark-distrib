@@ -1,6 +1,6 @@
 //> using scala "2.13.12"
-//> using lib "io.github.alexarchambault.mill::mill-native-image-upload:0.1.26"
-//> using lib "com.lihaoyi::os-lib:0.9.1"
+//> using lib "io.github.alexarchambault.mill::mill-native-image-upload:0.1.26"v
+//> using lib "com.lihaoyi::os-lib:0.9.2"
 
 object Upload {
   private def create(scalaVersion: String, sparkVersion: String, sourceUrl: String, dest: os.Path): Unit =
