@@ -1,4 +1,4 @@
-//> using scala "2.13.12"
+//> using scala "2.13.13"
 //> using lib "io.github.alexarchambault.mill::mill-native-image-upload:0.1.26"
 //> using lib "com.lihaoyi::os-lib:0.9.3"
 
