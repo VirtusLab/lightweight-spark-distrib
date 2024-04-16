@@ -1,5 +1,5 @@
 //> using lib "com.github.alexarchambault::case-app:2.1.0-M26"
-//> using lib "com.lihaoyi::os-lib:0.9.3"
+//> using lib "com.lihaoyi::os-lib:0.10.0"
 //> using lib "com.lihaoyi::pprint:0.8.1"
 //> using lib "io.get-coursier::coursier:2.1.8"
 //> using lib "io.get-coursier::dependency:0.2.3"
