@@ -2,7 +2,7 @@
 //> using lib "com.lihaoyi::os-lib:0.11.3"
 //> using lib "com.lihaoyi::pprint:0.9.0"
 //> using lib "io.get-coursier::coursier:2.1.17"
-//> using lib "io.get-coursier::dependency:0.2.5"
+//> using lib "io.get-coursier::dependency:0.3.2"
 //> using lib "org.apache.commons:commons-compress:1.27.1"
 //> using scala "2.13.8"
 
