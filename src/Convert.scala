@@ -3,7 +3,7 @@
 //> using lib "com.lihaoyi::pprint:0.9.3"
 //> using lib "io.get-coursier::coursier:2.1.17"
 //> using lib "io.get-coursier::dependency:0.2.5"
-//> using lib "org.apache.commons:commons-compress:1.27.1"
+//> using lib "org.apache.commons:commons-compress:1.28.0"
 //> using scala "2.13.8"
 
 //> using option "-Ywarn-unused"
